@@ -6,3 +6,5 @@ Este proyecto se desarrollara con fines de implementar maneras mas modernas al m
 de ordenar en establecimientos donde vendan comida, esto con el fin de optimizar 
 la toma de pedidos en los restaurantes asi mismo bajando el nivel de estres que pueda 
 llegar a producirse entre la relacion mesero-cliente.
+
+
